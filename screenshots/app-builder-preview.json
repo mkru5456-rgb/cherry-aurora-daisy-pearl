@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Теория Доброй Вселенной",
+      "hasCanvas": false,
+      "bodyTextLen": 178,
+      "bodyTextHash": "e5ec600a2e3d517035ce5a17a2a5d315137bfa857a31b709e589860cc9d4c3c7",
+      "bodyTextPrefix": "ОРИГИНАЛЬНАЯ ВИЗУАЛЬНАЯ НОВЕЛЛА Теория Доброй Вселенной Глава I ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Теория Доброй Вселенной",
+      "hasCanvas": false,
+      "bodyTextLen": 178,
+      "bodyTextHash": "e5ec600a2e3d517035ce5a17a2a5d315137bfa857a31b709e589860cc9d4c3c7",
+      "bodyTextPrefix": "ОРИГИНАЛЬНАЯ ВИЗУАЛЬНАЯ НОВЕЛЛА Теория Доброй Вселенной Глава I ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
